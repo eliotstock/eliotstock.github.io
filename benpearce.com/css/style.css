@@ -331,11 +331,11 @@ h2 {
   
   html {
     width: 100%;
+    border: 1px solid red;
   }
   
   body {
     width: 100%;
-    border: 1px solid red;
   }
 	
   #site-nav {

@@ -60,8 +60,8 @@ h1 {
 
 @media screen and (max-width: 768px) {
 
-  body {
-    border: 50px solid red;
+  nav {
+    font-size: 72pt;
   }
 	
   #site-nav {

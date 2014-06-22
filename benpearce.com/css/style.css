@@ -61,7 +61,11 @@ h1 {
 @media (max-width: 768px) {
 
   nav, h1, div.box-padding p {
-    font-size: 24px;
+    font-size: 32px;
+  }
+  
+  nav {
+    border: 1px solid red;
   }
 	
   #site-nav {

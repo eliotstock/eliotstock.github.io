@@ -65,6 +65,7 @@ h1 {
   }
   
   nav {
+    float: right;
     border: 1px solid red;
   }
 	

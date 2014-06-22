@@ -324,16 +324,14 @@ h2 {
     padding-left: 10px;
   }
   
-  /*
   nav ul {
     padding-left: 20px;
   }
-  */
   
   nav {
     position: relative;
     left: 40px;
-    width: 600px;
+    width: 650px;
   }
   
   #site-nav {

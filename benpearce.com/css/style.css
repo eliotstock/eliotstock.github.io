@@ -321,22 +321,10 @@ h2 {
   }
   
   nav ul {
-    padding-left: 20px;
+    position: relative;
+    left: 100px;
   }
   
-  nav {
-    float: right;
-  }
-  
-  html {
-    width: 100%;
-    border: 1px solid red;
-  }
-  
-  body {
-    width: 100%;
-  }
-	
   #site-nav {
     width: auto;
     position: relative;

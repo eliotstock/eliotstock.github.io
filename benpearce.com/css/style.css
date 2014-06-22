@@ -57,34 +57,6 @@ h1 {
   padding: 10px 10px 10px 210px;
 }
 
-
-@media (max-width: 768px) {
-
-  nav, h1, div.box-padding p {
-    font-size: 32px;
-  }
-  
-  nav {
-    float: right;
-    border: 1px solid red;
-  }
-	
-  #site-nav {
-    width: auto;
-    position: relative;
-    left: auto;
-    top: auto;
-    padding-top: 0px;
-    height: auto;
-    margin-bottom: 20px;
-  }
-  
-  #content {
-    padding-left: 10px;
-  }
-
-}
-
 .copy h2 {
   clear: both;
 }
@@ -340,4 +312,36 @@ h2 {
 .box-rollover p {
   background: url(../img/dotted.gif) bottom left repeat-x;
   padding-bottom: 10px;
+}
+
+/* Phones and tablets */
+@media (max-width: 768px) {
+
+  nav, h1, div.box-padding p {
+    font-size: 32px;
+  }
+  
+  nav ul {
+    padding-left: 0;
+  }
+  
+  nav {
+    float: right;
+    border: 1px solid red;
+  }
+	
+  #site-nav {
+    width: auto;
+    position: relative;
+    left: auto;
+    top: auto;
+    padding-top: 0px;
+    height: auto;
+    margin-bottom: 20px;
+  }
+  
+  #content {
+    padding-left: 10px;
+  }
+
 }

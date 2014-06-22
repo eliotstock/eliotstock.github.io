@@ -324,9 +324,11 @@ h2 {
     padding-left: 10px;
   }
   
-  nav li {
+  /*
+  nav ul {
     padding-left: 20px;
   }
+  */
   
   nav {
     position: relative;

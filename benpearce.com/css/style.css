@@ -30,7 +30,6 @@ html {
 body { 
   font: 14px 'Helvetica';
   color: #000;
-
   font-weight: normal;
 }
 
@@ -331,6 +330,7 @@ h2 {
   }
   
   body {
+    width: 100%;
     border: 1px solid red;
   }
 	

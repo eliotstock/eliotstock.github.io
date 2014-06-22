@@ -334,6 +334,10 @@ h2 {
     width: 650px;
   }
   
+  div.box-padding p {
+    line-height: 100%;
+  }
+  
   #site-nav {
     width: auto;
     position: relative;

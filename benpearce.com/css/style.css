@@ -58,10 +58,12 @@ h1 {
 }
 
 
+@media screen and (max-width: 768px) {
 
-/* screens smaller than 640 */
-@media screen and (max-width: 640px) {
-
+  body {
+    border: 50px solid red;
+  }
+	
   #site-nav {
     width: auto;
     position: relative;

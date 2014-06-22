@@ -314,8 +314,7 @@ h2 {
 }
 
 /* Phones and tablets */
-@media (max-width: 768px) {
-
+@media screen and (max-width: 768px) {
 	
   nav, h1, div.box-padding p {
     font-size: 32px;

@@ -320,6 +320,10 @@ h2 {
     font-size: 32px;
   }
   
+  h1 {
+    padding-left: 10px;
+  }
+  
   nav ul {
     padding-left: 20px;
   }

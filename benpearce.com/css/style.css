@@ -329,6 +329,10 @@ h2 {
     float: right;
   }
   
+  html {
+    width: 100%;
+  }
+  
   body {
     width: 100%;
     border: 1px solid red;

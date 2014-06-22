@@ -58,10 +58,14 @@ h1 {
 }
 
 
-@media screen and (max-width: 768px) {
+@media (max-width: 768px) {
 
   nav {
     font-size: 72pt;
+  }
+  
+  div.box-padding p {
+    font-size: 72pt;  
   }
 	
   #site-nav {

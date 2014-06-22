@@ -317,16 +317,20 @@ h2 {
 /* Phones and tablets */
 @media (max-width: 768px) {
 
+	
   nav, h1, div.box-padding p {
     font-size: 32px;
   }
   
   nav ul {
-    padding-left: 0;
+    padding-left: 20px;
   }
   
   nav {
     float: right;
+  }
+  
+  body {
     border: 1px solid red;
   }
 	

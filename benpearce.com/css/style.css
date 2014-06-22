@@ -320,6 +320,10 @@ h2 {
     font-size: 32px;
   }
   
+  nav {
+    width: 800px;
+  }
+  
   #site-nav {
     width: auto;
     position: relative;
